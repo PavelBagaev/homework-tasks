@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DataIO": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Java projects\\war and peace.txt\""
+    }
+  }
+}
