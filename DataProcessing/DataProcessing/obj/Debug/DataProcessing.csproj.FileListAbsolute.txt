@@ -1,6 +1,0 @@
-C:\c# projects\DataProcessing\DataProcessing\bin\Debug\DataProcessing.dll
-C:\c# projects\DataProcessing\DataProcessing\bin\Debug\DataProcessing.pdb
-C:\c# projects\DataProcessing\DataProcessing\obj\Debug\DataProcessing.csproj.AssemblyReference.cache
-C:\c# projects\DataProcessing\DataProcessing\obj\Debug\DataProcessing.csproj.CoreCompileInputs.cache
-C:\c# projects\DataProcessing\DataProcessing\obj\Debug\DataProcessing.dll
-C:\c# projects\DataProcessing\DataProcessing\obj\Debug\DataProcessing.pdb
