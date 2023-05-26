@@ -1,0 +1,7 @@
+C:\c# projects\Second task\Multithreading\DataIOMT\DataIO\obj\Release\net6.0\DataIO.csproj.AssemblyReference.cache
+C:\c# projects\Second task\Multithreading\DataIOMT\DataIO\obj\Release\net6.0\DataIO.Properties.Resources.resources
+C:\c# projects\Second task\Multithreading\DataIOMT\DataIO\obj\Release\net6.0\DataIO.csproj.GenerateResource.cache
+C:\c# projects\Second task\Multithreading\DataIOMT\DataIO\obj\Release\net6.0\DataIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\c# projects\Second task\Multithreading\DataIOMT\DataIO\obj\Release\net6.0\DataIO.AssemblyInfoInputs.cache
+C:\c# projects\Second task\Multithreading\DataIOMT\DataIO\obj\Release\net6.0\DataIO.AssemblyInfo.cs
+C:\c# projects\Second task\Multithreading\DataIOMT\DataIO\obj\Release\net6.0\DataIO.csproj.CoreCompileInputs.cache
