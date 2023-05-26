@@ -18,20 +18,9 @@ namespace DataProcessing
             for (int i = 0; i < book.Count; i++)
             {
                 tmp = book[i];
-                string[] words = regex.Split(tmp);
-                for (int j = 0; j < words.Length; j++)
-                {
-                    wordsList.Add(words[j].ToLower());
-                }
-            }
-
-            for (int i = 0; i < wordsList.Count; i++)
-            {
-                if (wordsList[i].Equals("") || wordsList[i].Equals("--") || wordsList[i].Equals("-"))
-                {
-                    wordsList.RemoveAt(i);
-                    i--;
-                }
+                List<string> words = regex.Split(tmp).ToList<string>();
+                words.RemoveAll(word => word.Equals("") || word.Equals("--") || words.Equals("-"));
+                wordsList.AddRange(words.ConvertAll(word => word.ToLower()));
             }
 
             for (int i = 0; i < wordsList.Count; i++)
